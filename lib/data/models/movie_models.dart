@@ -32,6 +32,7 @@ class MovieModel {
       'poster_path': posterPath,
     };
   }
-
+// return type response should match with the
+// movie model
 
 }

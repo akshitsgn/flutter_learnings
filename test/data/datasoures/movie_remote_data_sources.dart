@@ -9,6 +9,7 @@ import 'package:http/http.dart' as http;
 import 'package:mockito/mockito.dart';
 import 'package:newapp/data/datasources/MovieRemoteDataSource.dart';
 import 'package:newapp/data/datasources/remote/movie_remote_data_source_impl.dart';
+import 'package:newapp/errors/server_exception.dart';
 
 import 'movie_remote_data_sources.mocks.dart';
 
